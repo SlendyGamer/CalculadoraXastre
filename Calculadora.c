@@ -11,7 +11,7 @@ float add(float N1)
         Res = N1 + N2;
         return Res;
     }
-    
+
 float subtract(float N1)
     {
 
@@ -19,6 +19,7 @@ float subtract(float N1)
 
 float multiply(float N1)
     {
+        
 
     }
 
